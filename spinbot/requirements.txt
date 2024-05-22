@@ -2,3 +2,4 @@ pygithub>=1.40a
 influxdb
 pyyaml
 google-cloud-storage
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
