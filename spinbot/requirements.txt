@@ -2,3 +2,4 @@ pygithub>=1.40a
 influxdb
 pyyaml
 google-cloud-storage
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
